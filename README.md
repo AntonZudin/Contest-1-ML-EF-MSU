@@ -12,7 +12,7 @@ Steps undertaken with linear regression, boosting and Random Forest  model:
 
 Steps undertaken with MLP:
 * Encoding categorial features
-* Manual search for the best parameters
+* Manual search for the best hyperparameters
 * Splitting into train and test datasets
   
 
