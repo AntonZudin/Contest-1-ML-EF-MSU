@@ -18,3 +18,5 @@ Steps undertaken with MLP:
 
 
 Conclusion: Predictions obtained from MLP were the most worthy on private score due to some linearity in the data.
+
+https://www.kaggle.com/competitions/efmsu2023comp1
